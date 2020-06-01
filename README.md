@@ -1,4 +1,6 @@
-# NoticiasDemo
+# Directivas *ngFor y *ngIf de Angular
+
+## En este ejercicio de noticias, se ejemplifica el uso de las directivas *ngFor y *ngIf, utilizando data en formato Json y filtros.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
